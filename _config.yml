@@ -3,5 +3,7 @@ logo: /assets/img/headshot.jpeg
 description: Electrical Engineering Student at The Cooper Union
 #show_downloads: true
 theme: black-white-blue
-include:
-  - assets/css/custom.css
+include: assets/css/custom.css
+markdown: kramdown
+kramdown:
+  input: GFM
