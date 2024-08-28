@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 - Consectetur adipiscing elit
 - Phasellus imperdiet nulla et
 
-## Work Experience
+## Professional Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. 
 
 ## Projects
