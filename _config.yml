@@ -2,5 +2,5 @@ title: Taha Akhlaq
 logo: /assets/img/headshot.jpeg
 description: Electrical Engineering Student at The Cooper Union
 #show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-merlot
 include: [assets/css/custom.css]
